@@ -1,0 +1,6 @@
+# binary archive
+archive
+build
+
+# generated binary
+*.1.gz

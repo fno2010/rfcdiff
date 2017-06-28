@@ -1,0 +1,15 @@
+Repository: rfcdiff
+Version: 0.10
+Section: text
+Priority: optional
+Maintainer: Henrik Levkowetz <henrik@levkowetz.com>
+Package: rfcdiff
+Architecture: any
+Depends: 
+Category: author
+Url: http://tools.ietf.org/rfcdiff
+Ietf:
+Description: Draft Diff Tool
+	When looking at updated drafts, you want a diff with
+	the previous draft which ignores changing page layout
+	and moved page headers and footers.  Get it here.
